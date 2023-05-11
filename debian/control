@@ -10,3 +10,8 @@ Architecture: amd64
 Depends: ${misc:Depends}, edid-decode
 Provides: libdisplay-info-dev
 Description: EDID and DisplayID library.
+
+Package: libdisplay-info-dev
+Architecture: amd64
+Depends: ${misc:Depends}, libdisplay-info-dev
+Description: EDID and DisplayID library (development headers).
