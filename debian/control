@@ -8,13 +8,11 @@ Standards-Version: 4.6.1
 Package: libdisplay-info0
 Architecture: linux-any
 Depends: ${misc:Depends}, edid-decode
-Provides: libdisplay-info-dev
 Description: EDID and DisplayID library.
 
 Package: libdisplay-info-bin
 Architecture: linux-any
 Depends: ${misc:Depends}, libdisplay-info0
-Provides: libdisplay-info-dev
 Description: EDID and DisplayID library (utils).
 
 Package: libdisplay-info-dev
