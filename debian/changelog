@@ -1,6 +1,6 @@
-display-info (0.1.1-99pika5.lunar) lunar; urgency=low
+display-info (0.1.1.git~100pika1) pikauwu; urgency=low
 
-  * Fix depends
+  * Go to pikauwu
 
  -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
 
