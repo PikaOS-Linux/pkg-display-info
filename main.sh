@@ -1,5 +1,5 @@
 # Clone Upstream
-git clone https://gitlab.freedesktop.org/emersion/libdisplay-info -b 0.1.1
+git clone https://gitlab.freedesktop.org/emersion/libdisplay-info
 cp -rvf ./debian ./libdisplay-info
 mv ./libdisplay-info ./display-info
 cd ./display-info
